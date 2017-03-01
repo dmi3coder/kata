@@ -4,9 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/kata001.iml" filepath="$PROJECT_DIR$/kata001.iml" />
       <module fileurl="file://$PROJECT_DIR$/kata003/kata003.iml" filepath="$PROJECT_DIR$/kata003/kata003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kata004/kata004.iml" filepath="$PROJECT_DIR$/kata004/kata004.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/test.iml" filepath="$PROJECT_DIR$/.idea/modules/test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/test_main.iml" group="test" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/test_test.iml" group="test" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
     </modules>
   </component>
 </project>
